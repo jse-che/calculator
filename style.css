@@ -1,3 +1,5 @@
+/* Style Calculator */
+
 .calculator button.btn-number {
     background-color: #c3eaff;
     color: #000
@@ -139,3 +141,4 @@ button#equal{
     background-color: #ffd5d8;
     color: #fc4552;
 }
+
