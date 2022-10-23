@@ -82,7 +82,7 @@ body{
 .theme-toggler.active{
     color: #333;
 }
-.theme-toggler::before{
+.theme-toggler.active::before{
     background-color: #fff;
 }
 .theme-toggler::before{
@@ -106,7 +106,7 @@ body{
     justify-content: flex-end;
     font-size: 30px;
     margin-bottom: 20px;
-    overflow: scroll;
+    overflow-x: scroll;
 }
 #display::-webkit-scrollbar{
     display: block;
